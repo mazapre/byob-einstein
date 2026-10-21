@@ -2,7 +2,7 @@
 
 Apresentação em português sobre Bring Your Own Bot para canais Salesforce, com visual baseado no material Salesforce BYOB for Messaging.
 
-16 telas e roteiro de 40 minutos. Navegue pelas setas do teclado. Os controles discretos aparecem ao mover o cursor; o menu ⋯ reúne Índice, Notas e Tela cheia. `N`, `I` e `F` também abrem essas funções. Horários ficam apenas nas notas do apresentador.
+18 telas e roteiro de 40 minutos. Navegue pelas setas do teclado. Os controles discretos aparecem ao mover o cursor; o menu ⋯ reúne Índice, Notas e Tela cheia. `N`, `I` e `F` também abrem essas funções. Horários ficam apenas nas notas do apresentador.
 
 Inclui o roteiro da demo real (WhatsApp → Node.js local → atendente Salesforce), os resultados confirmados e os aprendizados de configuração.
 
