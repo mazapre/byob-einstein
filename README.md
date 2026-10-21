@@ -2,7 +2,9 @@
 
 Apresentação em português sobre Bring Your Own Bot para canais Salesforce, com visual baseado no material Salesforce BYOB for Messaging.
 
-14 telas e roteiro de 40 minutos. Navegue pelas setas; `N` abre as notas, `I` o índice e `F` a tela cheia.
+16 telas e roteiro de 40 minutos. Navegue pelas setas; `N` abre as notas, `I` o índice e `F` a tela cheia.
+
+Inclui o roteiro da demo real (WhatsApp → Node.js local → atendente Salesforce), os resultados confirmados e os aprendizados de configuração.
 
 A conversa interativa incluída é uma simulação ilustrativa local, sem conexão com Salesforce ou um agente externo.
 
